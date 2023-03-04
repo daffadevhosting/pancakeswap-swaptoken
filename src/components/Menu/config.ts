@@ -20,16 +20,12 @@ const config: MenuEntry[] = [
         href: '/pool',
       },
       {
-        label: 'Arbitrum Goerli',
-        href: 'https://pcs-arb.nhancv.com',
+        label: 'Nft Marketplace',
+        href: 'https://simplnft-marketplace.vercel.app/',
       },
       {
-        label: 'DApp',
-        href: 'https://dapp.nhancv.com',
-      },
-      {
-        label: 'Lucky Money',
-        href: 'https://dapp.nhancv.com/lucky',
+        label: 'Staking NFT',
+        href: 'https://simplnft-marketplace.vercel.app/stake',
       },
     ],
   },

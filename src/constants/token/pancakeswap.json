@@ -11,6 +11,14 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
+      "name": "SimPL Token",
+      "symbol": "SimPL",
+      "address": "0x467369A82aD1D9339df2ec23b434C153458844a0",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://simplnft-marketplace.vercel.app/icons/mining-icon.png"
+    },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0x0dE8FCAE8421fc79B29adE9ffF97854a424Cad09",
